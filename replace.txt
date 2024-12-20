@@ -1,0 +1,2 @@
+grep -rl "daftarkuponfstvl" . | xargs sed -i "s/daftarkuponfstvl/new-name/g"
+grep -rl "Daftarkuponfstvl" . | xargs sed -i "s/Daftarkuponfstvl/New Name/g"
